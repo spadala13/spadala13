@@ -34,7 +34,5 @@ I'm a passionate data scientist/analytics engineer in my 4th year pursuing a Com
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ## Connect with Me
-⭐️ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/nehapadala/) or [Email](mailto:spadala@uwaterloo.ca) if you would like to chat :smiley:: 
-
-I am always eager for an opportunity to learn something new and work on exciting projects!
+⭐️ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/nehapadala/) or [Email](mailto:spadala@uwaterloo.ca). I am always eager for an opportunity to learn something new and work on exciting projects!
 
