@@ -1,11 +1,12 @@
 # Hey👋, I'm Neha!
 
-I'm a passionate student data scientist/analytics engineer and developer in my 4th year pursuing a Computer Science and Business Adminstration Double Degree at the University of Waterloo and Wilfrid Laurier University. 
+I'm a passionate data scientist/analytics engineer in my 4th year pursuing a Computer Science and Business Adminstration Double Degree at the University of Waterloo and Wilfrid Laurier University. 
 
 ## About Me
 - 🍫 Currently developing data pipelines and extracting sweet insights at Hershey's
 - 🌱 Always eager to learn something new
-- 🚗 Catch me swimming or watching Formula 1 during my free time
+- ⌚️ Catch me swimming or watching Formula 1 during my free time
+
 
 ## Technologies & Tools
 ### Languages
@@ -33,5 +34,7 @@ I'm a passionate student data scientist/analytics engineer and developer in my 4
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ## Connect with Me
-⭐️ Feel free to reach out to me via LinkedIn or email at spadala@uwaterloo.ca. I am always eager for an opportunity to learn something new and work on exciting projects!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehapadala/)
+⭐️ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/nehapadala/) or email at [Email](mailto:spadala@uwaterloo.ca) if you would like to chat :smiley:: 
+
+I am always eager for an opportunity to learn something new and work on exciting projects!
+
