@@ -3,7 +3,7 @@
 I'm a passionate data scientist/analytics engineer in my 4th year pursuing a Computer Science and Business Adminstration Double Degree at the University of Waterloo and Wilfrid Laurier University. 
 
 ## About Me
-- 🍫 Currently developing data pipelines and extracting sweet insights at Hershey's
+- 🍫 Currently training algorithms in my ML course at University of Waterloo
 - 🌱 Always eager to learn something new
 - ⌚️ Catch me swimming or watching Formula 1 during my free time
 
